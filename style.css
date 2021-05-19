@@ -1,0 +1,28 @@
+.row {
+    display: flex;
+}
+.col {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: palegreen;
+    display: inline-block;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.col-2 {
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+    background-color: palegreen;
+    display: inline-block;
+}
+
+.col-3 {
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+    background-color: palegreen;
+    display: inline-block;
+}
